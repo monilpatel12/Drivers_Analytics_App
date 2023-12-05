@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813337999492",
+    "project_id": "driveranalyticapp",
+    "storage_bucket": "driveranalyticapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813337999492:android:3aed383cc83e711b33aad1",
+        "android_client_info": {
+          "package_name": "com.example.driveranalyticapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqtk8MnfO7uJ50TwJYTt8qh4x453p7X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813337999492:android:9ad80f7d2903a8b933aad1",
+        "android_client_info": {
+          "package_name": "com.example.driveranalyticsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqtk8MnfO7uJ50TwJYTt8qh4x453p7X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
